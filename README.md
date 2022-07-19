@@ -1,6 +1,10 @@
             =====> React || Beach Resort Project <=====
                      Hotel Room Booking System
             -------------------------------------------
+# Live Preview "https://hotel-room-booking-632e7.web.app"
+
+## Screenshot/Preview
+  ![hotel-room-booking](https://github.com/sanusisusi/hotel-booking-app/blob/main/hotel-room-booking.png)
 
 1. CREATE-A-NEW-REACT-APP - npm create-react-app react-beach-resort-dev
 
